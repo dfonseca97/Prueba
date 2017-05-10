@@ -1,1 +1,1 @@
-web: ruby get_tiempo_demora.rb < a.in
+console: ruby get_tiempo_demora.rb < a.in
