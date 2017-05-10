@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    firebase (0.2.6)
+      httpclient
+      json
+    httpclient (2.8.3)
+    json (2.1.0-java)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  firebase
+  httpclient
+  json
+
+RUBY VERSION
+   ruby 2.3.1p0 (jruby 9.1.8.0)
+
+BUNDLED WITH
+   1.14.6
